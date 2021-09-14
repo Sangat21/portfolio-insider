@@ -1,0 +1,7 @@
+Hello,
+To run this file in terminal,
+1. cd to folder 'portfolio-backend'
+2. run command 'npm install'
+3. run command 'node index'
+
+The code will run on localhost:5000
