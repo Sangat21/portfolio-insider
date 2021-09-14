@@ -1,0 +1,7 @@
+Hello,
+To run this file in terminal,
+1. cd to folder 'portfolio-insider'
+2. run command 'npm install'
+3. run command 'npm start'
+
+The code will run on localhost:3000
